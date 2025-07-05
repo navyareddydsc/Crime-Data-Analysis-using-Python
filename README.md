@@ -11,7 +11,7 @@ Objectives:
 
    - Create a MySQL database.
 
- - Load the provided crime dataset into the MySQL database.
+  Load the provided crime dataset into the MySQL database.
 
 2. Database Connection :
 
